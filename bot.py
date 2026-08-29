@@ -6,7 +6,7 @@ from telebot.types import ReplyKeyboardMarkup
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 import time
-TOKEN = "8855632187:AAE34WHekx16ARh6Iwh24qhwUFRZzT1c-js"
+TOKEN = "8855632187:AAFGPwhPTE6xEmy_9Eit7sed8T-1th4LBv4"
 
 bot = telebot.TeleBot(TOKEN)
 
